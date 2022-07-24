@@ -8,3 +8,4 @@
 2. 
 # General read
 1.https://medium.com/@tirthajyoti
+2.https://read.deeplearning.ai/the-batch/issue-146/

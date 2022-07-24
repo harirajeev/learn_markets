@@ -6,3 +6,5 @@
 # Repos
 1. https://github.com/viniesposito/py-mlfactor
 2. 
+# General read
+1.https://medium.com/@tirthajyoti

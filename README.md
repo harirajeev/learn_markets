@@ -5,7 +5,7 @@
 
 # Repos
 1. https://github.com/viniesposito/py-mlfactor
-2. 
+2. https://github.com/stefan-jansen/machine-learning-for-trading
 
 # General read
 1.https://medium.com/@tirthajyoti

@@ -6,6 +6,7 @@
 # Repos
 1. https://github.com/viniesposito/py-mlfactor
 2. https://github.com/stefan-jansen/machine-learning-for-trading
+3. https://github.com/enexqnt/quantallocation
 
 # General read
 1.https://medium.com/@tirthajyoti

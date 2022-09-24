@@ -17,3 +17,7 @@
 1.https://github.com/fastai/tinypets
 
 2.https://github.com/fastai/fastpages
+
+Papers:
+1. https://www.cmegroup.com/education/files/jpm-systematic-strategies-2013-12-11-1277971.pdf 
+(Systematic Strategies Across Asset Classes / Risk Factor Approach to Investing and Portfolio Management )

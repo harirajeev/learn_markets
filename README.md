@@ -34,3 +34,6 @@ Papers:
 - How to assess the performance of each strategy when live (ex: which metrics should I look at?)
  
 - Why are those strategies particularly attractive in the current environment? (ex: why they could complement a traditional portfolio?)
+
+2. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3954109  Supervised Portfolios
+

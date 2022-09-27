@@ -36,4 +36,4 @@ Papers:
 - Why are those strategies particularly attractive in the current environment? (ex: why they could complement a traditional portfolio?)
 
 2. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3954109  Supervised Portfolios
-
+3. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4230955  Interpretable Supervised Portfolios

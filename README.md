@@ -7,6 +7,7 @@
 1. https://github.com/viniesposito/py-mlfactor
 2. https://github.com/stefan-jansen/machine-learning-for-trading
 3. https://github.com/enexqnt/quantallocation
+4. https://github.com/dcajasn/Riskfolio-Lib
 
 # General read
 1.https://medium.com/@tirthajyoti

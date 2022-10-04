@@ -47,4 +47,7 @@
 3. Conditional Parameter Optimization 
 https://predictnow.ai/blog/conditional-parameter-optimization-adapting-parameters-to-changing-market-regimes/
 
+4. Machine Trading: Deploying Computer Algorithms to Conquer The Markets (Ernest Chan 2017).pdf https://github.com/gudbrandtandberg/CPSC540Project/blob/master/Machine%20Trading:%20Deploying%20Computer%20Algorithms%20to%20Conquer%20The%20Markets%20(Ernest%20Chan%202017).pdf
+5. 
+
 

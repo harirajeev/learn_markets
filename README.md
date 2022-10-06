@@ -40,10 +40,9 @@
 3. [Conditional Parameter Optimization](https://predictnow.ai/blog/conditional-parameter-optimization-adapting-parameters-to-changing-market-regimes/)
 
 4. [Machine Trading: Deploying Computer Algorithms to Conquer The Markets (Ernest Chan 2017).pdf](https://github.com/gudbrandtandberg/CPSC540Project/blob/master/Machine%20Trading:%20Deploying%20Computer%20Algorithms%20to%20Conquer%20The%20Markets%20(Ernest%20Chan%202017).pdf)
-5. 
 
 # Climate/ESG
 1. [Perspectives in sustainable equity investing](http://www.esgperspectives.com/)
 2. [Thus spoke GPT-3: Interviewing a Large-Language Model on Climate Finance](https://deliverypdf.ssrn.com/delivery.php?ID=804095029085094113003002123095100124027021021048033055068070011029119006066127078030020020060048123063038082068001003099029119105070040000040071016029123065004069095017050009091084126007069090085123099094007127024097110079025103087005085092122017112&EXT=pdf&INDEX=TRUE)
 3. [CLIMATEBERT: A Pretrained Language Model for Climate-Related Text](https://deliverypdf.ssrn.com/delivery.php?ID=668089000120110020091010005086103106020020059065037078000115090006105105006099108071022118037001014005040067002074008124116072052021093009085104079090116108109090027014003071083100117108027065086027122083076074105089079024075000068075110001110003021&EXT=pdf&INDEX=TRUE)
-3. 
+

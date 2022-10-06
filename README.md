@@ -40,14 +40,13 @@
 3. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4230955  Interpretable Supervised Portfolios
 
 # CorrectiveAI
-1. The 7 Reasons Most Machine Learning Funds Fail (https://deliverypdf.ssrn.com/delivery.php?ID=554072120067117101097072093091026098102019085079049016085026011127123008027097115018122122053012104056055088025064101127027092009086053083017029085064094124087119062017052092115074064100003003094012030114120017029030028067118007089127127114078004078&EXT=pdf&INDEX=TRUE)
+1. [The 7 Reasons Most Machine Learning Funds Fail](https://deliverypdf.ssrn.com/delivery.php?ID=554072120067117101097072093091026098102019085079049016085026011127123008027097115018122122053012104056055088025064101127027092009086053083017029085064094124087119062017052092115074064100003003094012030114120017029030028067118007089127127114078004078&EXT=pdf&INDEX=TRUE)
 
-2. Tabular Data: Deep Learning is Not All You Need  https://arxiv.org/abs/2106.03253
+2. [Tabular Data: Deep Learning is Not All You Need](https://arxiv.org/abs/2106.03253)
 
-3. Conditional Parameter Optimization 
-https://predictnow.ai/blog/conditional-parameter-optimization-adapting-parameters-to-changing-market-regimes/
+3. [Conditional Parameter Optimization](https://predictnow.ai/blog/conditional-parameter-optimization-adapting-parameters-to-changing-market-regimes/)
 
-4. Machine Trading: Deploying Computer Algorithms to Conquer The Markets (Ernest Chan 2017).pdf https://github.com/gudbrandtandberg/CPSC540Project/blob/master/Machine%20Trading:%20Deploying%20Computer%20Algorithms%20to%20Conquer%20The%20Markets%20(Ernest%20Chan%202017).pdf
+4. [Machine Trading: Deploying Computer Algorithms to Conquer The Markets (Ernest Chan 2017).pdf](https://github.com/gudbrandtandberg/CPSC540Project/blob/master/Machine%20Trading:%20Deploying%20Computer%20Algorithms%20to%20Conquer%20The%20Markets%20(Ernest%20Chan%202017.pdf)
 5. 
 
 # Climate/ESG

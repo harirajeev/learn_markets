@@ -14,6 +14,8 @@
 # General read
 1. https://medium.com/@tirthajyoti
 2. https://read.deeplearning.ai/the-batch/issue-146/
+3. [Exploring Machine Learning Advances
+in Finance](https://upcommons.upc.edu/bitstream/handle/2117/340312/TFG_Guillermo_Creus_Botella.pdf?sequence=1)
 
 # utils
 1. https://github.com/fastai/tinypets
@@ -40,6 +42,7 @@
 ## Meta-Labeling 
 * [Excellent Video tutorials from mlfinlab](https://www.mlfinlab.com/en/latest/labeling/tb_meta_labeling.html)  
 * https://github.com/hudson-and-thames/meta-labeling
+* [Does-Meta-Labeling-Add-to-Signal-Efficacy](https://hudsonthames.org/wp-content/uploads/2022/04/Does-Meta-Labeling-Add-to-Signal-Efficacy.pdf)
 
 
 # Climate/ESG
